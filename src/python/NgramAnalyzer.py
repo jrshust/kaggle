@@ -1,5 +1,5 @@
 import heapq as hq
-
+from math import log
 
 class NgramAnalyzer():
 
